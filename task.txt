@@ -3,3 +3,6 @@ take input from user --> username aashiqsingh  , devpandya
 @aashiqsingh11
 
 @devpandya9
+
+task : calculator : take input from user
+task : take input from user percentage and select stream depends upon percentage 
