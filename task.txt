@@ -6,3 +6,7 @@ take input from user --> username aashiqsingh  , devpandya
 
 task : calculator : take input from user
 task : take input from user percentage and select stream depends upon percentage 
+
+
+
+task : JSON : 5 field 

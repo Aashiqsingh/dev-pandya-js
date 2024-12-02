@@ -1,0 +1,15 @@
+JSON -- JavaScript object notation 
+
+
+JSON -- file type 
+
+Json -- key and value pair
+
+var student = {
+    id:101,
+    name:"rahul",
+    age:23,
+    email:"rahul@gmail.com"
+}
+
+Object
