@@ -23,7 +23,7 @@ var arr = ["ram","seeta","geeta","krishna","lakshman","rukmani","radha"];
 
 
 
-// var x = arr.reverse()
+// var x = arr.reverse() 
 // console.log(x);
 
 
